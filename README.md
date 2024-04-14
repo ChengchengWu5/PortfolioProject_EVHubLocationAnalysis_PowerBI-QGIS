@@ -11,5 +11,5 @@
 - Based on the analyses,one tourist attraction and one motorway are recommended for the CEO to make the final decision.
 
 ### Power BI and QGIS Versions:
-- Power BI: 
+- Power BI: 2.124.2028.0 64-bit (December 2023)
 - QGIS version: 3.32.1
