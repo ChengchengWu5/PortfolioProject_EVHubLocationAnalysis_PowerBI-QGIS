@@ -7,5 +7,5 @@
   existing number of EV charging devices, fixed costs to build the hub, expected charging costs and sales, 
 	and additional income streams.
 - Apart from the native visuals in Power BI such as the line chart, the column chart, and the ArcGIS visual,
-  QGIS is used to visualize England by region, the tourist attractions, main roads, and motorways. Based on the analyses,
-  one tourist attraction and one motorway are recommended for the CEO to make the final decision.
+  QGIS is used to visualize England by region, the tourist attractions, main roads, and motorways.
+- Based on the analyses,one tourist attraction and one motorway are recommended for the CEO to make the final decision.
